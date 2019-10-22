@@ -125,9 +125,9 @@ author:
     - label: "Kaggle"
       icon: "fab fa-kaggle"
       url: "https://www.kaggle.com/kafura0"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kafura0"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/kafura0"
     
 
 # Site Footer
@@ -139,9 +139,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/joan-knjoroge/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kafura0"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/kafura0"
     - label: "Kaggle"
       icon: "fab fa-kaggle"
       url: "https://www.kaggle.com/kafura0"
